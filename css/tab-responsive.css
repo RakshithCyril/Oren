@@ -1,0 +1,233 @@
+ @media only screen and (min-width:768px) and (max-width:991px){
+    .md-mb50 {
+        margin-bottom: 0px !important;
+    }
+    .col-sm-6 {
+        /* -webkit-box-flex: 0; */
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .liftimg {
+       margin-top: 65px;
+        height: 400px;
+        
+    }
+    .freelancer .cont h1 {
+        font-size: 32px;      
+    }
+    .cont h3{
+        font-size: 25px !important;
+    }
+    .freelancer .cont {
+        margin-top: 160px;
+    }
+    .freelancer {
+        min-height: 50vh ;      
+    }
+    .getinhead {
+        font-size: 32px;       
+    }
+    .cont h1 {
+        font-size: 32px !important;
+    }
+    .colorpara {
+        font-size: 14px;
+        padding-bottom: 0px;
+    }
+    .needtoppadding {
+        padding-top: 0px;
+    }
+    .aboutimg {
+        border-radius: 65px;
+        padding: 12px 0px;
+    }
+    .aboutsec1 {
+        padding: 50px 0px 0px 0px;
+    }
+    .button2 {
+        padding: 12px 30px;
+    }
+    .button4 {
+        padding: 12px 30px;
+    }
+    .services-sec-head h3 {
+        font-size: 32px !important;
+    }
+    .servicespara {
+        font-size: 14px;
+    }
+    .visionbottom{
+        margin-bottom: 50px;
+    }
+    .imgback p {
+        font-size: 14px;
+    }
+    .services .item h6 {
+        margin-bottom: 25px;
+    }
+    .fiximg {
+        bottom: -67px;
+        right: -370px;
+        float: right;
+        height: 450px;
+        width: auto;
+        position: absolute;
+    }
+    .getinhead2{
+        font-size: 25px;
+    }
+    .button3 {
+        padding: 12px 30px;
+    }
+    .services .item5 {
+        /* width: 352px !important; */
+        margin: 0px;
+        height: 100% !important;
+        padding: 15px 10px !important;
+        border-radius: 30px;
+        color: white;
+        text-align: center;
+        background: #1e2b56;
+        position: relative;
+    }
+    .wow2 li {
+      
+        padding-bottom: 10px;
+        
+        font-size: 14px;
+    }
+    .button5 {
+        padding: 12px 30px;
+        margin: 40px 0px;
+    }
+    .sec-head1 h3 {
+        font-size: 32px;
+    }
+    .custom-font .author {
+       
+        font-size: 14px;
+    }
+    .timefont ul li {
+        font-size: 14px;
+    }
+    .footer-half .subscribe form button {
+        padding: 12px 30px;
+        font-size: 12px;
+    }
+    .section-padding {
+        padding: 50px 0;
+    }
+    .navbar .navbar-collapse {
+        background: #1e2b56;
+    }
+
+    /* ============================================================about=========================== */
+    .aboutcolorpara {
+        font-size: 14px;
+    }
+    /* .aboutimg01 {
+        padding-top: 140px 0px 0px 0px !important;
+    } */
+    .aboutimg01 {
+        padding: 140px 0px 0px 0px;
+    }
+    .pages-header .cont .headall {
+        font-size: 75px !important;
+        margin-bottom: 20px;
+    }
+    .responsivemid h2{
+        font-size: 25px;
+    }
+    .funders {
+        font-size: 14px;
+    }
+    .fundersimages {
+        
+        padding: 0px;
+    }
+    .testipadding {
+        padding: 25px 0px;
+    }
+    .newclass {
+        
+         margin: -37px;
+    }
+    .testiname {
+        font-size: 25px;
+        font-weight: 300;
+       
+        font-family: Monteserrat family !important;
+        letter-spacing: 1px;
+    }
+    .whitecolor h4 {
+        /* font-family: Gilroy !important; */
+        font-size: 25px;
+        
+    }
+    .footer-half:after {
+       
+        background: #1e2b56;
+    }
+    .needinright {
+        display: block;
+    }
+
+    /* ==============================================services======================================= */
+    /* .offset-lg-2 {
+        margin-left:0px !important;
+    } */
+    .offset-sm-3 {
+        margin-left: 25%;
+    }
+    .offset-sm-0 {
+        margin-left: 0 !important;
+    }
+    .footer-half .copyrights {
+        margin-top: 0px;
+    }
+    /* ====================================blog=========================================== */
+
+    .blog-curs .item .bimg .img {      
+        min-height: 100% !important;  
+    }
+    .custom-font{
+        font-size: 25px;       
+    }
+    .focolor p {
+        font-size: 14px;
+    }
+    .focolor p {
+        padding: 12px 30px;
+    }
+    .givesize{
+        font-size: 32px;
+    }
+    .newclass {
+       
+        background-size: cover;
+    }
+    .nonbr{
+        display: none;
+    }
+    .portfolio .filtering span {
+        width: 30%;
+    }
+    .pages-header {
+        height: 95vh;
+    }
+    .testibackground {
+        background-image: url(../img/oren-home/Quote/mobilequote.png);
+    }
+    .setimage {
+        display: none;
+    }
+    .newclass2 {
+        padding: 27px;
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        background-size: cover;
+    }
+
+}
+

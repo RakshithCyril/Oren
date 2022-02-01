@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d3833b5.chunk.css",
+    "main.js": "/static/js/main.f71782cb.chunk.js",
+    "main.js.map": "/static/js/main.f71782cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.531e9553.js",
+    "runtime-main.js.map": "/static/js/runtime-main.531e9553.js.map",
+    "static/css/2.e93115b6.chunk.css": "/static/css/2.e93115b6.chunk.css",
+    "static/js/2.ea3ee886.chunk.js": "/static/js/2.ea3ee886.chunk.js",
+    "static/js/2.ea3ee886.chunk.js.map": "/static/js/2.ea3ee886.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e93115b6.chunk.css.map": "/static/css/2.e93115b6.chunk.css.map",
+    "static/css/main.5d3833b5.chunk.css.map": "/static/css/main.5d3833b5.chunk.css.map",
+    "static/js/2.ea3ee886.chunk.js.LICENSE.txt": "/static/js/2.ea3ee886.chunk.js.LICENSE.txt",
+    "static/media/green-cap.13e14b22.svg": "/static/media/green-cap.13e14b22.svg",
+    "static/media/logo.f803b5f9.svg": "/static/media/logo.f803b5f9.svg",
+    "static/media/orange-cap.4ea5fd7f.svg": "/static/media/orange-cap.4ea5fd7f.svg",
+    "static/media/red-cap.814dcb9d.svg": "/static/media/red-cap.814dcb9d.svg",
+    "static/media/red-cap.c558c4ec.PNG": "/static/media/red-cap.c558c4ec.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531e9553.js",
+    "static/css/2.e93115b6.chunk.css",
+    "static/js/2.ea3ee886.chunk.js",
+    "static/css/main.5d3833b5.chunk.css",
+    "static/js/main.f71782cb.chunk.js"
+  ]
+}

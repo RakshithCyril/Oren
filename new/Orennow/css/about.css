@@ -1,0 +1,188 @@
+.pages-header {
+    height: 100vh;
+    
+}
+.aboutimg2 {
+    /* border-radius: 65px; */
+    padding: 0px 45px;
+}
+.aboutcolorpara {
+   color: white;
+    font-family: Monteserrat family;
+    font-size: 16px;
+    letter-spacing: 1px;
+    /* font-weight: 300; */
+    line-height: 1.5;
+    padding-top: 10px;
+   
+}
+.aboutimg01{ 
+    padding: 99px 85px 0px 85px;
+
+}
+.aboutsec002 {
+    /* padding: 130px 0px 1px 0px; */
+    background-color: white;
+    color: #1e2b56;
+}
+.funders{
+    padding-bottom: 20px;
+    color: #1e2b56;
+    font-family: Monteserrat family;
+    font-size: 16px;
+    /* letter-spacing: 1px; */
+    font-weight: 300;
+    line-height: 1.5;
+    padding-top: 10px;
+}
+.aboutfunders {
+    padding: 50px 28px;
+}
+.fundersimages {
+    border-radius: 0px;
+    padding: 0px 45px;
+}
+.cont h2 {
+    /* font-family: Gilroy !important; */
+    font-family: Monteserrat family;
+    font-weight: 600;
+}
+.connectfund{
+    font-weight: bold;
+}
+.aboutsocial a img{
+    width: auto;
+    height: 30px;
+}
+.aboutsocial .fundlink img{
+    width: auto;
+    height: 40px;
+}
+.aboutsocial .fundinsta img{
+    width: auto;
+    height: 29px;
+}
+
+.aboutfunders h1 {
+    font-size: 55px;
+}
+.pages-header .cont h1 {
+    font-size: 70px;
+    color: white;
+    margin-bottom: 20px;
+}
+.navbar .logo {
+    width: 90px;
+}
+.pages-header {
+    height: 100vh;
+}
+.newclass{
+    
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* background-position-x: -28px;
+    width: 105%; */
+    margin: -37px;
+    background-size: contain;
+}
+.whitecolor h4{
+    
+color: white !important;
+}
+.whitecolor {
+    
+padding: 170px 0px;
+}
+.nonbr{
+    display: none;
+}
+
+@media only screen and (max-width: 768px) {
+    .nonbr{
+        display: block;
+    }
+    .testihr {
+        width: 55%;
+        margin: 5px 0px;
+        border: 2px solid lightgray;
+    }
+    .whitecolor h4 {
+        font-size: 14px;
+    }
+    .newclass {
+        
+        padding: 25px;
+        background-repeat: no-repeat;
+        /* background-size: cover; */
+        margin: -10px;
+        background-size: cover;
+    }
+    .whitecolor {
+        padding: 0px;
+    }
+    .aboutsec1 {
+        padding: 50px 0px 1px 0px;
+        background-color: #1e2b56;
+        color: white;
+    }
+    .aboutcolorpara {
+       
+        font-size: 14px;
+     
+        /* padding-top: 10px; */
+    }
+    .aboutfunders h1 {
+        text-align: center;
+        font-size: 28px;
+    }
+    .funders {
+  
+        font-size: 14px;
+      
+        padding: 5px 0px;
+    }
+    .cont h2 {
+       
+        padding-top: 10px;
+    }
+    .aboutsocial{
+        padding-left: 5px;
+    }
+    .aboutsocial a img {
+        width: auto;
+        height: 20px;
+        /* padding-left: 4px; */
+    }
+    .aboutbottom {
+        padding-bottom: 50px;
+    }
+    .footer-half:after {
+        
+        background: #344166;      
+    }
+    .needinright {
+        
+        display: none;
+    }
+    .needpadding {
+        padding: 30px 0px;
+    }
+    .getinhead {
+        font-size: 30px;       
+    }
+    .getinhead2 {
+        font-size: 23px;
+    }
+    .footergetinhead{
+        font-size: 27px;
+    }
+    .responsivemid{
+        text-align: center;
+    }
+    .aboutsocial a img {
+        width: auto;
+        height: 32px;
+        /* padding-left: 4px; */
+    }
+  }
